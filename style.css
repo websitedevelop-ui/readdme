@@ -1,0 +1,93 @@
+/************TAG SELECTORS**************/
+body{
+    background-color: #e4f9f5;
+}
+hr{
+    border-style: none;
+    border-width: 5px;
+    color: gray;
+    width: 12%;
+    border-top-style: dotted;
+}
+h2{
+    font-size: 34px;
+    color: grey;
+    font-family: 'Amiri', serif;
+}
+p{
+    font-size: 22px;
+}
+h1{
+    font-family: 'Parisienne', cursive;
+}
+
+a:hover{
+color: grey;
+}
+/*************CLASS SELECTORS************/
+.seun{
+    position: relative;
+    top: 70px;
+    padding-left: 580px;
+    font-size: 25px;
+}
+.b-c{
+    background-color: #131313;
+    padding: 50px 20px 20px 50px;
+    text-align: center;
+}
+.name{
+    color: wheat;
+    font-size: small;
+}
+.footer-link{
+    padding: 15px;
+    font-size: 1.3rem;
+    text-decoration:darkgray;
+    color: white;
+    cursor: pointer;
+    font-family: 'Amiri', serif;
+    text-align: center;
+}
+.helo{
+    text-align: center;
+}
+.mountain{
+    width: 100%;
+}
+.ag{
+    border-radius: 500px;
+    height: 300px;
+    width: 300px;
+    margin-left: 0px;
+}
+.skill{
+    text-align: center;
+}
+.mskil{
+    margin-right: 0px;
+    margin-left: 350px;
+}
+.exp{
+    text-align: center;
+}
+.ach{
+    border-radius: 600px;
+    height: 300px;
+    width: 300px;
+}
+.oas{
+    border-radius: 500px;
+    height: 300px;
+    width: 300px;
+}
+.agric{
+    margin-right: 0px;
+}
+.contact-me{
+    text-align: center;
+}
+.btn{
+    text-decoration: unset;
+    text-decoration: darkgreen;
+}
